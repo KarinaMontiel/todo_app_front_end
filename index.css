@@ -45,3 +45,7 @@ h2{
 html {
   background: repeating-radial-gradient(lightblue, white);
 }
+
+img{
+    width: 50px;
+}
