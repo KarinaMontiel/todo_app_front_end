@@ -49,3 +49,7 @@ html {
 img{
     width: 100px;
 }
+
+.completed-todo{
+  text-decoration: line-through;
+}
